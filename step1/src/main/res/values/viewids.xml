@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bt_step1" type="id" />
+    <item name="bt_step2" type="id" />
+    <item name="bt_step3" type="id" />
+    <item name="bt_step4" type="id" />
+</resources>
