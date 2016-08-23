@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ListViewSubject.iml" filepath="$PROJECT_DIR$/ListViewSubject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refresh/refresh.iml" filepath="$PROJECT_DIR$/refresh/refresh.iml" />
       <module fileurl="file://$PROJECT_DIR$/step1/step1.iml" filepath="$PROJECT_DIR$/step1/step1.iml" />
       <module fileurl="file://$PROJECT_DIR$/step2/step2.iml" filepath="$PROJECT_DIR$/step2/step2.iml" />
     </modules>
